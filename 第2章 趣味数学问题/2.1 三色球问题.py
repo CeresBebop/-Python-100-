@@ -1,6 +1,6 @@
 #!/usr/bin/env python 3
 # -*- coding: utf-8 -*-
-# @author: CeresBebop (Modified)
+# @author: CeresBebop
 # @desc: 三色球问题
 
 if __name__ == "__main__":
