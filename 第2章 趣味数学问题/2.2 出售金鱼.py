@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @author: CeresBebop (Modified)
+# @author: CeresBebop
 # @desc: 出售金鱼
 
 if __name__ == "__main__":
